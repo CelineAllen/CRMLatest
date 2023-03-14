@@ -1,4 +1,4 @@
-@regression @smoke
+ @smoke
 Feature: Crmly login feature
 
   Background: User is already in the login page

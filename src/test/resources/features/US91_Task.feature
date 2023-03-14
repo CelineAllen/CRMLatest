@@ -1,4 +1,4 @@
-@US91
+@US91  @smoke
 Feature: User task feature
 
   Background: User is already in the login page

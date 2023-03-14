@@ -1,3 +1,4 @@
+@smoke
 Feature: Logout Functionality
   Agile Story: User should be able to logout
 

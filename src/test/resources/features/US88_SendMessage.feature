@@ -1,4 +1,4 @@
-@regression @messageFunction
+@regression @messageFunction @smoke
 
 Feature: Verify sending simple text messages using the message tab
   User Story: As a user, I should be able to send simple text messages using the message tab.

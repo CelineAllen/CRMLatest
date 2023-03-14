@@ -1,3 +1,4 @@
+@smoke
 Feature: Create Announcement functionality
   User story: user should be able to make an Announcement using the Announcement tab
 

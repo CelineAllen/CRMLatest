@@ -1,4 +1,4 @@
-@merve
+
 Feature: User profile and options feature
 
   Background: User is already in the login page
